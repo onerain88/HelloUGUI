@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{AE2C1829-241A-5A67-57E4-F69E0BD689B8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Chat/ChatUI.cs">
+    <Files>
+      <File FileName="Assets/Chat/ChatUI.cs" Line="19" Column="6" />
+      <File FileName="Assets/Chat/ChatItem.cs" Line="15" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloUGUI PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
